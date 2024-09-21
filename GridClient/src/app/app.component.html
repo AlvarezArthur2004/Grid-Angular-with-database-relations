@@ -1,0 +1,32 @@
+<div class="justify-content-center align-items-center p-5 " style="height: max-content;">
+  <div class="row g-0 border border-dark rounded">
+
+      <div class="col-md-5 d-flex justify-content-center p-4 border border-dark" style="background-color: lightblue; height: 1000px;">
+            <div class="form-control bg-body-secondary" style="height: max-content;">
+                <h2>Students</h2>
+                <app-gridoutput></app-gridoutput>
+                <h2>Subjects</h2>
+                
+                <app-gridoutputsubject></app-gridoutputsubject>
+            </div>
+      </div>
+
+  
+      <div class="col-md-7 g-0">
+          <div class="row g-0">
+              <div class="col-12 border border-dark" style="background-color: lightgreen; height: 500px;">
+                  <div>
+                    <div class="p-4 d-flex justify-content-center align-items-center"><app-grid (subjectCreated)="onSubjectCreated()" (studentCreated)="onStudentCreated()"></app-grid> </div>
+                  </div>
+              </div>
+              <div class="col-12 border border-dark" style="background-color: lightcoral; height: 500px;">
+                  <div>
+                    <div class="p-4 d-flex justify-content-center align-items-center">
+                        <app-gridresult class="w-100"></app-gridresult>
+                    </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>

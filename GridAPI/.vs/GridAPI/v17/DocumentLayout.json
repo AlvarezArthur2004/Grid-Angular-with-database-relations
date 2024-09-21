@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/GridAPI/True/SqlTable/dbo.Subjects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/GridAPI/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\gridapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\gridapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|d:\\praktikaangular\\task4grid\\gridapi\\gridapi\\migrations\\20240919175052_thirdmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB384A2-5241-4653-B27D-69764863A28B}|GridAPI\\GridAPI.csproj|solutionrelative:gridapi\\migrations\\20240919175052_thirdmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Models\\Student.cs",
+              "RelativeToolTip": "GridAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:32:34.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Models\\Subject.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Models\\Subject.cs",
+              "RelativeToolTip": "GridAPI\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:32:15.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GridAPI\\appsettings.json",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\appsettings.json",
+              "RelativeToolTip": "GridAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T19:36:12.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Controllers\\GridController.cs",
+              "RelativeToolTip": "GridAPI\\Controllers\\GridController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:10:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Program.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Program.cs",
+              "RelativeToolTip": "GridAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:07:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Subjects [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/GridAPI/True/SqlTable/dbo.Subjects.sql",
+              "ToolTip": "dbo.Subjects [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T18:00:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\DTOs\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "GridAPI\\DTOs\\SubjectDto.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\DTOs\\SubjectDto.cs",
+              "RelativeToolTip": "GridAPI\\DTOs\\SubjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:16:24.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "GridAPI\\DTOs\\StudentDto.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "GridAPI\\DTOs\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:16:10.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GridAPI.http",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\GridAPI.http",
+              "RelativeDocumentMoniker": "GridAPI\\GridAPI.http",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\GridAPI.http",
+              "RelativeToolTip": "GridAPI\\GridAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-19T18:27:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GridAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:30:22.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240919175052_ThirdMig.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Migrations\\20240919175052_ThirdMig.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Migrations\\20240919175052_ThirdMig.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Migrations\\20240919175052_ThirdMig.cs",
+              "RelativeToolTip": "GridAPI\\Migrations\\20240919175052_ThirdMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:50:52.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "GridAPI\\Data\\DataContext.cs",
+              "ToolTip": "D:\\PraktikaAngular\\Task4Grid\\GridAPI\\GridAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "GridAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:09:22.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Students [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/GridAPI/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T18:00:04.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

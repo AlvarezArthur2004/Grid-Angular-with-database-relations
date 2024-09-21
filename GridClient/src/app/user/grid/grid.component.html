@@ -1,0 +1,93 @@
+<form #studentForm="ngForm" (submit)="onSubmitStudent(studentForm)"
+[class.submitted] = "service_student.formSubmitted" 
+novalidate autocomplete="off"
+class="mb-3 row align-items-center">
+
+  <div class="mb-3 row align-items-center">
+
+    <input type="hidden" name="id" [value]="service_student.formData.id">
+
+    <label class="col-sm-4 col-form-label">Fill a Student Name:</label>
+    <div class="col-sm-8">
+      <input class="form-control bg-body-secondary" 
+      placeholder="Student Name"
+      #name="ngModel" name="name"
+      [(ngModel)]="service_student.formData.name"
+      required>
+    </div>
+  </div>
+
+  <div class="mb-3 row align-items-center">
+    <label class="col-sm-2 col-form-label">Subject:</label>
+    <div class="col-sm-10">
+      <input class="form-control bg-body-secondary" placeholder="Subject"
+      #subjectId="ngModel" name="subjectId"
+      [(ngModel)]="service_student.formData.subjectId"
+      required>
+    </div>
+  </div>
+
+  <div class="mb-3 row align-items-center">
+    <label class="col-sm-2 col-form-label">Mark:</label>
+    <div class="col-sm-10">
+      <input class="form-control bg-body-secondary" placeholder="Mark"
+      #mark="ngModel" name="mark"
+      [(ngModel)]="service_student.formData.mark"
+      required>
+    </div>
+  </div>
+
+  <div class="mb-3 row align-items-center">
+    <label class="col-sm-3 col-form-label">Pass Date:</label>
+    <div class="col-sm-9">
+      <input type="date" class="form-control bg-body-secondary" placeholder="Pass Date"
+      #passSubject="ngModel" name="passSubject"
+      [(ngModel)]="service_student.formData.passSubject"
+      required
+      >
+    </div>
+  </div>
+  
+  <div class="mb-3 row align-items-center">
+    <button type="submit" class="btn btn-success rounded-3">
+      Create Student
+    </button>
+  </div>
+
+</form>
+
+
+<form 
+#subjectForm="ngForm" (submit)="onSubmitSubject(subjectForm)"
+[class.submitted] = "service_subject.formSubmitted" 
+novalidate autocomplete="off"
+
+class="mb-3 row align-items-center">
+
+  <div class="mb-3 row align-items-center">
+    <label class="col-sm-3 col-form-label">Subject:</label>
+    <div class="col-sm-9">
+      <input class="form-control bg-body-secondary" placeholder="Subject"
+      #name="ngModel" name="name"
+      [(ngModel)]="service_subject.formData.name"
+      required>
+    </div>
+  </div>
+
+  <div class="mb-3 row align-items-center">
+    <label class="col-sm-3 col-form-label">Pass Date:</label>
+    <div class="col-sm-9">
+      <input type="date" class="form-control bg-body-secondary" placeholder="Pass Date"
+      #dateExam="ngModel" name="dateExam"
+      [(ngModel)]="service_subject.formData.dateExam"
+      required>
+    </div>
+  </div>
+  
+  <div class="mb-3 row align-items-center">
+    <button type="submit" class="btn btn-success rounded-3">
+      Create Subject
+    </button>
+  </div>
+
+</form>

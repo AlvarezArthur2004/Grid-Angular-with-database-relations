@@ -1,0 +1,26 @@
+<form class="d-flex mb-12 row align-items-center"
+#scholarshipForm="ngForm" (submit)="onSubmitScholarship(scholarshipForm)"
+>
+
+  <div class="mb-3 row align-items-center">
+    <label class="col-sm-3 col-form-label">Scholarship:</label>
+    <div class="col-sm-9">
+      <input class="form-control bg-body-secondary" placeholder="Scholarship" name="scholarship" ngModel>
+    </div>
+  </div>
+
+  <div class="mb-3 row align-items-center">
+    <button type="submit" class="btn btn-success rounded-3">
+      Count a Scholarship
+    </button>
+  </div>
+
+</form>
+
+<ag-grid-angular 
+class="ag-theme-balham"
+style="width: 100%; height: 360px;"
+[rowData]="rowData"       
+[columnDefs]="columnDefs"  
+[defaultColDef]="{sortable: true}"/> 
+
