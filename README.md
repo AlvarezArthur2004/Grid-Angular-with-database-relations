@@ -1,12 +1,12 @@
-## Asp.Net-Core-Register-Operation-with-Angular
+## Grid-Angular-with-database-relations
 
 To start this project, you need to have both Visual Studio and Visual Studio Code installed.
 
-Once you open the project in Visual Studio Code, run the AuthECClient by executing the following command:
+Once you open the project in Visual Studio Code, run the GridClient by executing the following command:
 
     ng serve -o
 
-Then, start the AuthECApi in Visual Studio.
+Then, start the GridApi in Visual Studio.
 
 After completing these steps, you will be able to use the application.
 
